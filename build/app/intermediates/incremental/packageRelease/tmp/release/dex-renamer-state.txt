@@ -1,0 +1,4 @@
+#Wed Sep 18 16:23:41 CEST 2019
+base.0=C\:\\Users\\ChristopherCorbo\\Documents\\CC\\OneTapStopWatch\\onetapstopwatch\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
