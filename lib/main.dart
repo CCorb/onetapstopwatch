@@ -1,11 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_circular_chart/flutter_circular_chart.dart';
+import 'package:flutter_circular_chart_two/flutter_circular_chart_two.dart';
 import 'package:onetapstopwatch/StopWatchTimer.dart';
-
+import 'package:wakelock/wakelock.dart';
 import './Data.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(MyApp());
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+    systemNavigationBarColor: Colors.black87,
+  ));
+}
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
@@ -63,6 +68,7 @@ class _MyTappableView extends State<MyTappableView> {
 
   @override
   Widget build(BuildContext context) {
+    Wakelock.enable();
     return new Scaffold(
       body: GestureDetector(
 

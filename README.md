@@ -4,12 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-Make shure you have a flutter development setup.
-How to setup an environment for flutter, go see https://flutter.dev/docs/get-started/install
+This project is a starting point for a Flutter application.
 
-Clone this project to your computer.
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Code is on /lib
-
-This App has only one View. THe Gesturehandler observes interaction with the app.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -1,4 +1,4 @@
-#Wed Sep 18 16:18:59 CEST 2019
-base.0=C\:\\Users\\ChristopherCorbo\\Documents\\CC\\OneTapStopWatch\\onetapstopwatch\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Fri Jul 02 11:25:23 CEST 2021
+base.0=H\:\\Entwicklung\\flutter_projects\\onetapstopwatch2\\onetapstopwatch\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
